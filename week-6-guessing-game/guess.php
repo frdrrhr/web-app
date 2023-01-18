@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Guessing Game for Friedrich Döhrer</title>
+</head>
 <h1>Hello from Friedrich's HTML Page</h1>
 <p>
 <?php
